@@ -2,6 +2,18 @@
 
 Este repositório contém o código-fonte e os recursos para o Desafio Techthon. Siga as instruções abaixo para configurar o ambiente de desenvolvimento e instalar as dependências necessárias.
 
+# Sobre o Desafio
+
+O desafio "Techthon: Transformando a Jornada do Paciente na Atenção Primária do SUS" é uma
+competição que está sendo desenvolvida pelo projeto PROADI Banco de Imagens BCIM do Hospital
+Israelita Albert Einstein. Esta competição faz parte de um workshop que ocorrerá em novembro de 2023, centrado em "métodos de avaliação de impacto de soluções de IA na área da saúde e os desafios e boas práticas de pesquisa em estudos de validação clínica de algoritmos de IA". 
+
+Este repositório contém nosso projeto para esse desafio. 
+
+**Periodo: 06 de setembro - 08 de outubro de 2023**
+
+**Tema: Melhorias em processos e tecnologias para a atenção primária do SUS**
+
 ## Configurando o Ambiente de Desenvolvimento
 
 1. Certifique-se de que você tenha o Conda instalado em seu sistema. Se você não tiver o Conda instalado, você pode baixá-lo em [Conda Downloads](https://docs.conda.io/en/latest/miniconda.html) ou usar uma distribuição Conda como o Anaconda.

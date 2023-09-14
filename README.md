@@ -22,7 +22,7 @@ Este repositório contém o código-fonte e os recursos para o Desafio Techthon.
 4. Ative o ambiente virtual recém-criado:
 
    ```bash
-   conda activate desafio-techthon
+   conda activate techthon
    ```
 
 ## Instalando as Dependências
@@ -40,7 +40,7 @@ Agora que você configurou o ambiente de desenvolvimento e instalou as dependên
 Lembre-se de que você deve ativar o ambiente virtual Conda sempre que trabalhar neste projeto:
 
 ```bash
-conda activate desafio-techthon
+conda activate techthon
 ```
 
 ## Contribuindo

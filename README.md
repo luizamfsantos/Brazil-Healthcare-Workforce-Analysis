@@ -14,6 +14,13 @@ Este repositório contém nosso projeto para esse desafio.
 
 **Tema: Melhorias em processos e tecnologias para a atenção primária do SUS**
 
+## Participantes
+1. [Luiza Santos](http://linkedin.com/in/santosluiza/)
+2. [Érica Tex Paulino]
+3. [Marianna Nogueira Cecyn]
+4. [Júlia Eduarda Alberton]
+5. [Danilo]
+
 ## Configurando o Ambiente de Desenvolvimento
 
 1. Certifique-se de que você tenha o Conda instalado em seu sistema. Se você não tiver o Conda instalado, você pode baixá-lo em [Conda Downloads](https://docs.conda.io/en/latest/miniconda.html) ou usar uma distribuição Conda como o Anaconda.

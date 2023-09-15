@@ -16,10 +16,10 @@ Este repositório contém nosso projeto para esse desafio.
 
 ## Participantes
 1. [Luiza Santos](http://linkedin.com/in/santosluiza/)
-2. [Érica Tex Paulino]
-3. [Marianna Nogueira Cecyn]
-4. [Júlia Eduarda Alberton]
-5. [Danilo]
+2. [Érica Tex Paulino](https://www.linkedin.com/in/ericatex/)
+3. [Marianna Nogueira Cecyn]()
+4. [Júlia Eduarda Alberton]()
+5. [Danilo]()
 
 ## Configurando o Ambiente de Desenvolvimento
 

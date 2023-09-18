@@ -1,0 +1,8 @@
+**Diretório de Código:**
+   - `src/`: Esta pasta contém todo o seu código-fonte.
+     - `preprocessamento_de_dados/`: Código relacionado ao pré-processamento de dados, incluindo limpeza, transformação e engenharia de características.
+     - `treinamento_de_modelos/`: Código para treinar seus modelos de aprendizado de máquina.
+     - `avaliacao_de_modelos/`: Código para avaliar o desempenho de seus modelos.
+     - `implantacao/`: Se aplicável, código para implantar seu modelo de ML em um ambiente de produção.
+     - `utils/`: Funções e módulos de utilidade que são usados em diferentes partes de sua base de código.
+   - `scripts/`: Scripts independentes para tarefas específicas, como download de dados, conversão de dados ou ajuste fino do modelo.

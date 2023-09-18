@@ -1,0 +1,45 @@
+Organização Pretendida:
+
+1. **Diretório Raiz:**
+   - `README.md`: Um arquivo README bem documentado explicando o projeto, seus objetivos, como utilizá-lo e outras informações relevantes.
+   - `LICENSE`: Um arquivo especificando a licença do projeto.
+
+2. **Diretório de Código:**
+   - `src/`: Esta pasta contém todo o seu código-fonte.
+     - `preprocessamento_de_dados/`: Código relacionado ao pré-processamento de dados, incluindo limpeza, transformação e engenharia de características.
+     - `treinamento_de_modelos/`: Código para treinar seus modelos de aprendizado de máquina.
+     - `avaliacao_de_modelos/`: Código para avaliar o desempenho de seus modelos.
+     - `implantacao/`: Se aplicável, código para implantar seu modelo de ML em um ambiente de produção.
+     - `utils/`: Funções e módulos de utilidade que são usados em diferentes partes de sua base de código.
+   - `scripts/`: Scripts independentes para tarefas específicas, como download de dados, conversão de dados ou ajuste fino do modelo.
+
+3. **Diretório de Dados:**
+   - `data/`: Dados usados em seu projeto.
+     - `bruto/`: Dados originais, não processados.
+     - `processado/`: Dados processados e limpos, prontos para o treinamento do modelo.
+     - `externo/`: Dados de fontes externas, se houver.
+
+4. **Diretório de Notebooks:**
+   - `notebooks/`: Notebooks Jupyter ou outros notebooks interativos para experimentação, exploração de dados e prototipagem de modelos. Esses notebooks podem fornecer uma maneira mais interativa e visual de mostrar seu trabalho.
+
+5. **Diretório de Documentação:**
+   - `docs/`: Qualquer documentação adicional que não pertença ao arquivo README. Isso pode incluir explicações detalhadas de algoritmos, fontes de dados ou arquiteturas de modelos.
+
+6. **Arquivos de Configuração e Ambiente:**
+   - `.env`: Configuração de variáveis de ambiente, para informações sensíveis como chaves de API.
+   - `requirements.txt` ou `environment.yml`: Dependências e requisitos de pacotes para reproduzir seu ambiente.
+   - `config/`: Arquivos de configuração para hiperparâmetros e configurações usadas em seu código.
+
+7. **Artefatos de Modelo:**
+   - `modelos/`: Arquivos de modelo salvos, pesos e outros artefatos dos modelos treinados.
+
+8. **Resultados e Registros:**
+   - `resultados/`: Armazene os resultados de experimentos, incluindo métricas, gráficos e relatórios.
+   - `logs/`: Arquivos de log gerados durante o treinamento ou outros processos.
+
+9. **Diretório de Testes:**
+   - `testes/`: Testes unitários ou testes de integração para sua base de código.
+
+10. **Diversos:**
+    - `imagens/`: Armazene imagens ou diagramas usados em sua documentação ou notebooks.
+    - `exemplos/`: Scripts ou notebooks de exemplo que demonstram como usar seu código.

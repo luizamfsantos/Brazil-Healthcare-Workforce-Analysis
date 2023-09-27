@@ -1,41 +1,29 @@
-CNES - Equipes de Saúde - Brasil
-Quantidade por Unidade da Federação e Ano/mês compet.
-Período:Jan-Ago/2023
-"Unidade da Federação";"2023/Jan";"2023/Fev";"2023/Mar";"2023/Abr";"2023/Mai";"2023/Jun";"2023/Jul";"2023/Ago"
-"11 Rondônia";727;724;728;728;728;740;745;747
+"Unidade da Federaï¿½ï¿½o";"2023/Jan";"2023/Fev";"2023/Mar";"2023/Abr";"2023/Mai";"2023/Jun";"2023/Jul";"2023/Ago"
+"11 Rondï¿½nia";727;724;728;728;728;740;745;747
 "12 Acre";494;493;493;493;500;516;519;520
 "13 Amazonas";2116;2106;2095;2099;2125;2185;2192;2205
 "14 Roraima";304;302;303;303;308;436;436;422
-"15 Pará";3815;3815;3819;3844;3870;3995;4045;4098
-"16 Amapá";396;397;398;400;414;432;435;455
+"15 Parï¿½";3815;3815;3819;3844;3870;3995;4045;4098
+"16 Amapï¿½";396;397;398;400;414;432;435;455
 "17 Tocantins";1268;1266;1268;1272;1283;1291;1295;1297
-"21 Maranhão";4693;4701;4701;4715;4743;4888;4949;4987
-"22 Piauí";2994;2999;3001;3008;3018;3037;3044;3047
-"23 Ceará";5746;5759;5769;5806;5868;5994;6042;6058
+"21 Maranhï¿½o";4693;4701;4701;4715;4743;4888;4949;4987
+"22 Piauï¿½";2994;2999;3001;3008;3018;3037;3044;3047
+"23 Cearï¿½";5746;5759;5769;5806;5868;5994;6042;6058
 "24 Rio Grande do Norte";2505;2508;2505;2513;2529;2547;2569;2572
-"25 Paraíba";3415;3412;3421;3421;3431;3477;3496;3496
+"25 Paraï¿½ba";3415;3412;3421;3421;3431;3477;3496;3496
 "26 Pernambuco";5368;5372;5371;5377;5404;5515;5548;5569
 "27 Alagoas";2018;2015;2015;2027;2044;2065;2070;2072
 "28 Sergipe";1396;1395;1397;1402;1416;1462;1465;1477
 "29 Bahia";8861;8876;8900;8923;8982;9196;9250;9279
 "31 Minas Gerais";11993;11994;12000;12077;12233;12678;12736;12781
-"32 Espírito Santo";2067;2067;2070;2086;2111;2159;2173;2165
+"32 Espï¿½rito Santo";2067;2067;2070;2086;2111;2159;2173;2165
 "33 Rio de Janeiro";5956;5962;5995;6022;6089;6153;6186;6218
-"35 São Paulo";15194;15211;15262;15356;15481;15881;16053;16144
-"41 Paraná";5647;5667;5698;5808;5881;6063;6085;6102
+"35 Sï¿½o Paulo";15194;15211;15262;15356;15481;15881;16053;16144
+"41 Paranï¿½";5647;5667;5698;5808;5881;6063;6085;6102
 "42 Santa Catarina";4635;4659;4698;4726;4778;4830;4863;4875
 "43 Rio Grande do Sul";5149;5172;5192;5240;5295;5623;5692;5731
 "50 Mato Grosso do Sul";1666;1672;1677;1684;1690;1734;1770;1770
 "51 Mato Grosso";1776;1776;1783;1797;1806;1841;1850;1931
-"52 Goiás";3659;3660;3662;3673;3694;3751;3773;3796
+"52 Goiï¿½s";3659;3660;3662;3673;3694;3751;3773;3796
 "53 Distrito Federal";1037;1037;1038;1041;1044;1054;1060;1065
 "Total";104895;105017;105259;105841;106765;109543;110341;110879
- Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
- Nota:
- - Os dados relativos ao Cadastro Nacional de Estabelecimentos de Saúde (CNES) exibidos no TABNET referem-se aos registros constantes no Banco de Dados Nacional do CNES com status ATIVO.
- - A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
- 
- Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
- De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
- A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
- 

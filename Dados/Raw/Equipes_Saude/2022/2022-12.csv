@@ -1,0 +1,29 @@
+"Unidade da Federa��o";"01 ESF - EQUIPE DE SAUDE DA FAMILIA";"02 ESFSB_M1 - ESF COM SAUDE BUCAL - M I";"03 ESFSB_M2 - ESF COM SAUDE BUCAL - M II";"04 EACS - EQUIPE DE AGENTES COMUNITARIOS DE SAUDE";"05 EPEN - EQUIPE DE AT. SAUDE SIST. PENITENCIARIO";"06 NASF1 - NUCLEO DE APOIO A SAUDE DA FAMILIA-NASF MODALIDADE 1";"07 NASF2 - NUCLEO DE APOIO A SAUDE DA FAMILIA-NASF MODALIDADE 2";"08 EMSI - EQ MULTIDISC AT BASICA SAUDE INDIGENA";"10 EACSSB_M1 - EQ AGENTES COMUNIT�RIOS COM SAUDE BUCAL - MI";"12 ESFR - EQUIPE DE SAUDE DA FAMILIA RIBEIRINHA";"16 EAB1 - EQUIPE DE ATENCAO BASICA TIPO I";"17 EAB2 - EQUIPE DE ATENCAO BASICA TIPO II";"18 EAB3 - EQUIPE DE ATENCAO BASICA TIPO III";"19 EAB1SB - EQUIPE DE ATENCAO BASICA TIPO I COM SAUDE BUCAL";"22 EMAD - EQUIPE MULTIDISCIPLINAR DE ATENCAO DOMICILIAR TIPO I";"23 EMAP - EQUIPE MULTIDISCIPLINAR DE APOIO";"24 ESF1      - ESTRATEGIA DE SAUDE DA FAMILIA TIPO I";"25 ESF1SB_M1 - ESF TIPO I COM SAUDE BUCAL MODALIDADE I";"33 ESF4      - ESTRATEGIA DE SAUDE DA FAMILIA TIPO IV";"34 ESF4SB_M1 - ESF TIPO IV COM SAUDE BUCAL MODALIDADE I";"36 ESFTRANS      - ESF TRANSITORIA";"37 ESFTRANSSB_M1 - ESF TRANSITORIA COM SAUDE BUCAL MI";"38 ESFTRANSSB_M2 - ESF TRANSITORIA COM SAUDE BUCAL MII";"40 eCR MI   - EQUIPE DOS CONSULTORIOS NA RUA MODALIDADE I";"41 eCR MII  - EQUIPE DOS CONSULTORIOS NA RUA MODALIDADE II";"42 eCR MIII - EQUIPE DOS CONSULTORIOS NA RUA MODALIDADE III";"43 ESB MI  - EQUIPE DE SAUDE BUCAL MODALIDADE I";"44 ESB MII - EQUIPE DE SAUDE BUCAL MODALIDADE II";"45 NASF3 - NUCLEO DE APOIO A SAUDE DA FAMILIA-NASF MODALIDADE 3";"46 EMAD - EQUIPE MULTIDISCIPLINAR DE ATENCAO DOMICILIAR TIPO II";"47 EAD - EQUIPE DE CUIDADOS DOMICILIARES";"50 EABP1   - EQ ATENCAO BASICA PRISIONAL TIPO I";"51 EABP1SM - EQ ATENCAO BASICA PRISIONAL TIPO I C SAUDE MENTAL";"52 EABP2   - EQ ATENCAO BASICA PRISIONAL TIPO II";"53 EABP2SM - EQ ATENCAO BASICA PRISIONAL TIPO II C SAUDE MENTAL";"54 EABP3   - EQ ATENCAO BASICA PRISIONAL TIPO III";"70 ESF - EQUIPE DE SAUDE DA FAMILIA";"71 ESB - EQUIPE DE SAUDE BUCAL";"72 ENASF-AB - EQ NUCLEO AMPLIADO SAUDE DA FAMILIA AT. PRIMARIA";"73 ECR - EQUIPE DOS CONSULTORIOS NA RUA";"74 EABP - EQUIPE DE ATENCAO PRIMARIA PRISIONAL";"75 EMAESM - EQ  MULTIPROF  ATENCAO ESPECIALIZADA SAUDE MENTAL";"76 EAP - EQUIPE DE ATENCAO PRIMARIA";"Total"
+"11 Rond�nia";2;-;-;1;-;-;-;7;-;-;-;-;-;-;8;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;441;184;25;1;18;2;18;711
+"12 Acre";2;-;-;1;-;1;-;7;-;-;-;-;-;-;3;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;258;166;15;1;6;4;27;493
+"13 Amazonas";-;-;-;2;-;-;-;63;-;-;-;-;-;-;23;10;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1024;773;77;3;12;1;146;2134
+"14 Roraima";-;-;-;-;-;-;-;27;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;155;100;16;-;4;-;1;303
+"15 Par�";1;-;-;5;-;2;-;17;-;1;-;-;-;-;48;51;-;-;-;-;-;-;-;-;-;-;-;-;-;16;-;-;-;-;-;-;2067;1240;130;7;21;14;166;3786
+"16 Amap�";-;-;-;-;-;-;-;-;-;-;-;-;-;-;5;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;199;147;24;2;2;-;11;392
+"17 Tocantins";-;-;-;-;-;3;-;8;-;-;-;-;-;-;7;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;593;477;136;2;24;3;10;1268
+"21 Maranh�o";8;1;-;1;-;2;-;11;-;-;-;-;-;-;19;26;-;-;-;-;-;-;-;-;-;-;-;-;-;16;1;-;-;-;-;-;2536;1751;207;4;22;45;22;4672
+"22 Piau�";-;-;-;-;-;-;-;-;-;-;-;-;-;-;7;16;-;-;-;-;-;-;-;-;-;-;-;-;-;10;1;-;-;-;-;-;1386;1289;247;1;14;17;4;2992
+"23 Cear�";-;-;-;3;-;13;-;22;-;-;-;-;-;-;64;54;1;-;-;-;-;-;-;-;1;-;-;-;-;23;-;-;-;-;-;-;2925;2280;272;3;20;17;37;5735
+"24 Rio Grande do Norte";-;-;-;2;-;6;2;-;-;-;-;-;-;-;11;13;-;-;-;-;1;-;-;-;-;-;-;-;1;10;-;2;-;-;-;-;1156;1094;154;5;22;2;17;2498
+"25 Para�ba";1;-;-;3;-;-;-;3;-;-;-;-;-;-;25;43;-;-;-;-;-;-;-;-;-;-;-;-;-;30;-;-;-;-;-;-;1546;1449;248;5;18;26;15;3412
+"26 Pernambuco";-;-;-;34;-;4;-;20;1;-;-;-;-;-;42;38;-;-;-;-;-;-;-;-;-;-;-;-;1;18;-;-;-;-;-;-;2678;2118;234;9;63;4;89;5353
+"27 Alagoas";3;-;-;-;-;-;-;9;-;-;-;-;-;-;24;40;-;-;-;-;-;-;-;-;-;-;-;-;-;27;-;-;-;-;-;-;941;808;128;6;10;8;24;2028
+"28 Sergipe";-;-;-;-;-;1;-;1;-;-;-;-;-;-;15;19;-;-;-;-;-;-;-;-;-;-;-;-;-;10;-;-;-;-;-;-;727;511;68;1;7;11;26;1397
+"29 Bahia";12;12;-;48;5;5;-;15;-;-;-;-;-;-;65;93;-;-;-;-;-;-;-;-;-;3;-;-;-;51;-;-;-;-;-;-;4333;3447;363;15;32;81;254;8834
+"31 Minas Gerais";39;11;3;9;5;21;1;9;-;-;4;-;-;-;108;84;-;-;-;-;-;-;-;-;-;-;-;-;1;31;3;-;-;2;-;2;6104;4232;833;25;122;56;276;11981
+"32 Esp�rito Santo";10;9;-;10;-;2;2;5;-;-;-;-;-;-;6;6;-;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1017;703;40;8;45;19;174;2058
+"33 Rio de Janeiro";50;9;6;36;1;2;1;2;-;-;6;-;-;3;81;49;-;-;7;1;10;1;1;1;-;-;-;-;-;7;2;-;-;-;-;-;3359;1628;246;34;68;31;263;5905
+"35 S�o Paulo";58;14;1;93;13;15;8;4;3;-;38;7;2;12;248;113;-;-;2;-;2;-;-;2;1;3;5;6;5;14;1;-;-;2;1;-;6706;4420;597;64;119;46;2489;15114
+"41 Paran�";24;4;1;13;1;7;3;2;-;-;-;-;-;-;39;20;-;-;-;-;-;-;-;1;1;-;2;-;3;9;-;-;-;-;-;-;2698;1952;278;10;20;96;434;5618
+"42 Santa Catarina";5;2;1;7;-;1;1;4;-;-;1;-;-;-;24;14;-;-;-;-;-;-;-;-;-;-;-;-;-;9;72;-;-;-;1;-;2207;1425;577;5;37;35;183;4611
+"43 Rio Grande do Sul";1;1;-;25;-;4;1;9;1;-;-;1;-;-;44;13;-;-;-;-;1;-;-;-;-;-;2;-;-;11;-;-;1;-;-;-;2510;1581;152;12;67;92;608;5137
+"50 Mato Grosso do Sul";1;-;-;8;-;1;-;24;-;-;-;-;-;-;11;11;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;-;-;-;-;-;751;649;98;4;71;9;24;1666
+"51 Mato Grosso";-;-;-;3;-;-;-;18;-;-;-;-;-;-;4;6;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;-;-;-;-;-;937;677;73;3;16;2;34;1777
+"52 Goi�s";-;-;-;4;-;10;-;2;-;-;1;-;-;-;46;55;-;-;-;-;-;-;-;-;-;-;-;-;-;33;-;-;-;-;-;-;1705;1339;154;11;76;60;137;3633
+"53 Distrito Federal";2;-;-;-;-;2;-;-;-;-;-;-;-;-;17;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;620;300;46;5;27;8;-;1036
+"Total";219;63;12;308;25;102;19;289;5;1;50;8;2;15;994;794;1;1;9;1;14;1;1;4;3;6;9;6;12;331;83;3;1;4;2;2;51579;36740;5438;246;963;689;5489;104544

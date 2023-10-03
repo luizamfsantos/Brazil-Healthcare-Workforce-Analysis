@@ -1,0 +1,1 @@
+desidade10000habitantes.csv -> arquivo contendo o numero de equipes de saude para cada 10,000 habitantes
